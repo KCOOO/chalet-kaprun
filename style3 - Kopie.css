@@ -1,0 +1,25 @@
+#Name {
+    color: chartreuse;
+    text-align: center;
+    font-size: 75px;
+}
+#KM {
+    color: aqua;
+    text-align: center;
+    margin-top: 35px;
+    font-size: 30px;
+}
+body {
+    background-image: url(keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+}
+#ok a {
+    color: azure;
+    margin-top: -20px;
+    font-size: 30px;
+}
+#ok a:hover {
+    color: rgb(47, 224, 255);
+}
+#winterimg {
+    margin-left: 600px;
+}

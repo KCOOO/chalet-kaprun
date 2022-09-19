@@ -1,0 +1,24 @@
+body {
+    background-image: url(kuh2.png);
+
+}
+#Href a {
+    color: rgb(0, 255, 64);
+    font-size: 25px;
+}
+#text {
+    position: absolute;
+    margin-top: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 30px; 
+}
+#title {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(0, 4, 7);
+}
+
+#LOL{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
